@@ -11,7 +11,7 @@ Para ejecutar la araña, en Anaconda promtp siga lo siguiente:
 2. scrapy crawl mercado
 3. Revise el archivo generado en la carpeta mercadolibre
 
-En start_urls, el parametro range solo se hace para que no scrapee las dos primeras listas de impresar en mercado libre
+En start_urls, el parametro range solo se hace para que solo scrapee las dos primeras listas de impresar en mercado libre
 
 El proyecto Book, es tomado de https://medium.com/quick-code/python-scrapy-tutorial-for-beginners-04-crawler-rules-and-linkextractor-7a79aeb8d72
 
